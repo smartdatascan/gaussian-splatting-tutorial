@@ -6,6 +6,8 @@ This repository contains the dataset, models, and scripts used in the tutorial:
 
 The tutorial demonstrates how to reconstruct a real-world object as a 3D Gaussian Splatting model using COLMAP, gsplat, and the SuperSplat Editor on Windows.
 
+![Example result: toy and 3D Gaussian Splatting model](images/toy-and-model.jpg)
+
 ## Contents
 
 - `datasets/` – Original and downsampled images, COLMAP database, and sparse reconstruction
